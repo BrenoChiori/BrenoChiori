@@ -1,4 +1,4 @@
-<h2 align="left">Olá! eu sou o Breno Chiori 👋</h2>
+<h2 align="left">Olá! Meu nome é Breno Chiori 👋</h2>
 
 ###
 
