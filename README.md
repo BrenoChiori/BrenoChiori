@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Una<br>📚 Atualmente tenho focado meus estudos em Java<br>🎯 Meu objetivo é entrar no mercado de trabalho para aplicar e expandir meu conhecimento, contribuindo para projetos inovadores e colaborando com o desenvolvimento.</p>
+<p align="left">
+💻 Desenvolvedor Full Stack com experiência em Java (Spring Boot) e Angular, atuando na construção de APIs REST e modernização de sistemas legados <br>
+🚀 Experiência prática na migração de aplicações GWT para Angular, aplicando boas práticas de arquitetura e código limpo.<br>
+🧠 Foco em desenvolvimento backend, com atenção à qualidade, escalabilidade e manutenção de sistemas.<br>
+🎯 Em busca de oportunidades para contribuir com soluções robustas e evoluir continuamente como desenvolvedor.
+</p>
 
 ###
 
